@@ -1,0 +1,7 @@
+{
+  "Name" : "Rani",
+  "Designation" : "PHP Developer",
+  "Salary" : 98000,
+  "Age":27,
+  "Projects" :{"Topic":"Smart Ambulance","Category":"Android Application","Months":{"Test":"Smart Ambulance","tes2":"Android Application","tes3":2}}
+}
